@@ -1,0 +1,12 @@
+h:\我的文档\visual studio 2013\Projects\CSTry\ServerEnd\bin\Debug\ServerEnd.exe.config
+h:\我的文档\visual studio 2013\Projects\CSTry\ServerEnd\bin\Debug\ServerEnd.exe
+h:\我的文档\visual studio 2013\Projects\CSTry\ServerEnd\bin\Debug\ServerEnd.pdb
+h:\我的文档\visual studio 2013\Projects\CSTry\ServerEnd\obj\Debug\ServerEnd.csprojResolveAssemblyReference.cache
+h:\我的文档\visual studio 2013\Projects\CSTry\ServerEnd\obj\Debug\ServerEnd.exe
+h:\我的文档\visual studio 2013\Projects\CSTry\ServerEnd\obj\Debug\ServerEnd.pdb
+H:\我的文档\Visual Studio 2013\Projects\AprvSys_Server\ServerEnd\bin\Debug\ServerEnd.exe.config
+H:\我的文档\Visual Studio 2013\Projects\AprvSys_Server\ServerEnd\obj\Debug\ServerEnd.exe
+H:\我的文档\Visual Studio 2013\Projects\AprvSys_Server\ServerEnd\obj\Debug\ServerEnd.pdb
+H:\我的文档\Visual Studio 2013\Projects\AprvSys_Server\ServerEnd\obj\Debug\ServerEnd.csprojResolveAssemblyReference.cache
+H:\我的文档\Visual Studio 2013\Projects\AprvSys_Server\ServerEnd\bin\Debug\ServerEnd.exe
+H:\我的文档\Visual Studio 2013\Projects\AprvSys_Server\ServerEnd\bin\Debug\ServerEnd.pdb

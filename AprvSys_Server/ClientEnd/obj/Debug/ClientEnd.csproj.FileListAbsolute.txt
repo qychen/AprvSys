@@ -1,0 +1,6 @@
+h:\我的文档\visual studio 2013\Projects\CSTry\ClientEnd\bin\Debug\ClientEnd.exe.config
+h:\我的文档\visual studio 2013\Projects\CSTry\ClientEnd\bin\Debug\ClientEnd.exe
+h:\我的文档\visual studio 2013\Projects\CSTry\ClientEnd\bin\Debug\ClientEnd.pdb
+h:\我的文档\visual studio 2013\Projects\CSTry\ClientEnd\obj\Debug\ClientEnd.exe
+h:\我的文档\visual studio 2013\Projects\CSTry\ClientEnd\obj\Debug\ClientEnd.pdb
+h:\我的文档\visual studio 2013\Projects\CSTry\ClientEnd\obj\Debug\ClientEnd.csprojResolveAssemblyReference.cache
